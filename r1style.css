@@ -1,0 +1,57 @@
+body{
+  margin:0;
+  padding:0;
+  background-image: url('images/form.jpeg');
+  background-size:cover;
+    background-repeat: no-repeat;
+  background-position: center;
+  font-family:sans-serif;
+  width:800px;
+  height:800px;
+}
+.container{
+  width:320px;
+  height:650px;
+  background:transparent;
+  color:black;
+  top:25%;
+  left:50%;
+  position:absolute;
+  transform:translate(-50%,-50px);
+  box-sizing:border-box;
+  padding-top: 20px;
+  padding-left: 50px;
+  padding-right:  50px;
+  padding-bottom:  50px;
+  border-radius: 10px;
+  background:rgba(0,0,0,.5);
+
+
+}
+form{
+  color: #00BFFF;
+}
+input{
+  color: black;
+}
+.tt{
+    padding-left: 70px;
+    color:black;
+  }
+  span{
+    color:red;
+    cursor: pointer;
+  }
+
+ 
+h1{
+  text-align: center;
+  font-size: 25px;
+  color: #C71585;
+}
+
+
+
+
+
+
